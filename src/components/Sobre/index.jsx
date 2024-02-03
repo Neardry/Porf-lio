@@ -20,21 +20,21 @@ function Sobre() {
                 </div>
                 <div>
                     <ul className={style.lista_sobre}>
-                        <li>HTML5</li>
-                        <li>CSS3</li>
-                        <li>JavaScript</li>
-                        <li>Gulp</li>
-                        <li>Grunt</li>
-                        <li>AJAX</li>
-                        <li>SASS</li>
-                        <li>LESS</li>
-                        <li>Parcel</li>
-                        <li>Git</li>
-                        <li>jQuery</li>
-                        <li>BootStrap</li>
-                        <li>React</li>
-                        <li>TypeScript</li>
-                        <li>Figma</li>
+                        <li className={style.item_sobre}>HTML5</li>
+                        <li className={style.item_sobre}>CSS3</li>
+                        <li className={style.item_sobre}>JavaScript</li>
+                        <li className={style.item_sobre}>Gulp</li>
+                        <li className={style.item_sobre}>Grunt</li>
+                        <li className={style.item_sobre}>AJAX</li>
+                        <li className={style.item_sobre}>SASS</li>
+                        <li className={style.item_sobre}>LESS</li>
+                        <li className={style.item_sobre}>Parcel</li>
+                        <li className={style.item_sobre}>Git</li>
+                        <li className={style.item_sobre}>jQuery</li>
+                        <li className={style.item_sobre}>BootStrap</li>
+                        <li className={style.item_sobre}>React</li>
+                        <li className={style.item_sobre}>TypeScript</li>
+                        <li className={style.item_sobre}>Figma</li>
                     </ul>
                 </div>
             </div>
