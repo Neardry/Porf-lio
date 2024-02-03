@@ -1,0 +1,18 @@
+.header {
+    background-color: #7f8fa6;
+    padding-bottom: 20px;
+}
+
+.imageUser {
+    margin: 40px 0;
+    max-width: 320px;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,11 @@
+
+.texto_sobre {
+    max-width: 400px;
+}
+
+.lista_sobre {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    column-gap: 30px;
+}
